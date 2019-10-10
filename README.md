@@ -20,12 +20,13 @@ I learned how to use javascript to manipulate the way a web page appears.
 
 ## Ugly query
 
-This project was to use javascript to manipulate the DOM and 
-![screenshot]
+This project was to use javascript to manipulate the DOM and make the site as ugly as possible.
+![screenshot](/photos/ugly-query.png)
 
 ## Domb and Domber
 
-![screenshot]
+This project was to create javascript functions to use to manipulate the DOM (abstraction)'
+![screenshot](photos/domb-and-domber.png)
 
 ## Miscellaneous
 
