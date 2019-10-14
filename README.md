@@ -5,6 +5,8 @@
 Document object model - "It represents the page so that programs can change the document structure, style, and content."(from MDN)
 
 I learned how to use javascript to manipulate the way a web page appears.
+
+Example:
 ``` const h1 = document.querySelector('h1')
     h1.style.color = 'red'
 ```
@@ -24,13 +26,17 @@ I learned how to use javascript to manipulate the way a web page appears.
 
 This project was to use javascript to manipulate the DOM and make the site as ugly as possible.
 ![screenshot](/photos/ugly-query.png)
-https://github.com/phenix1229/ugly-query
+*Find code here:* https://github.com/phenix1229/ugly-query
+
+*See results here:* https://phenix1229.github.io/ugly-query
 
 ### Domb and Domber
 
-This project was to create javascript functions to use to manipulate the DOM (abstraction).
+This object of this project was to create javascript functions to use to manipulate the DOM (abstraction).
 ![screenshot](photos/domb-and-domber.png)
-https://github.com/phenix1229/domb-and-domber
+*Find code here:* https://github.com/phenix1229/domb-and-domber
+
+*See results here:* https://phenix1229.github.io/domg-and-domber
 
 ---
 
@@ -47,6 +53,6 @@ https://github.com/phenix1229/domb-and-domber
 
 ## Challenges
 
-I had some struggles with finding the right selector to make some of the changes or functions. There was lots of trial and error. Particularly, the Domb and Domber project reinforced the lesson that sometimes a break is needed in order to think more clearly and find the solution.
+I had some struggles with finding the right selector to make some of the changes or functions. I had to go through lots of trial and error. Particularly, with the Domb and Domber project where I had to step away for a while. This reinforced the lesson that sometimes a break is needed in order to think more clearly and find the solution.
 
 ---
