@@ -7,16 +7,17 @@ Document object model - "It represents the page so that programs can change the 
 I learned how to use javascript to manipulate the way a web page appears.
 
 Example:
-``` const h1 = document.querySelector('h1')
-    h1.style.color = 'red'
+``` 
+const h1 = document.querySelector('h1')
+h1.style.color = 'red'
 ```
 ### Tools
 
-* `querySelector`
-* `querySelectorAll`
-* `getAttribute`
-* `setAttribute`
-* `appendChild`
+* `querySelector()` - find the first instance of a particular item
+* `querySelectorAll()` - find all instances of a particular item
+* `getAttribute()` - find attribute of a given item
+* `setAttribute()` - give an item a specific attribute
+* `appendChild()` - add an item to an existing item
 
 ---
 
